@@ -87,9 +87,9 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.buymeacoffee.com/LeozCapri" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="LeozCapri buy me a coffee" width="230"></a>
-</p>
+</p> -->
 
 <!--
 <p  align="center">
